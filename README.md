@@ -2,7 +2,7 @@
 
 Help on interview preparation
 
-## Navigation
+https://github.com/AimeSoleil/InterveiwReady/wiki
 
 ### Java
 
