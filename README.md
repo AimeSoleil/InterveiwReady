@@ -1,6 +1,6 @@
 # InterveiwReady
 
-https://github.com/AimeSoleil/InterveiwReady/wiki
+> https://github.com/AimeSoleil/InterveiwReady/wiki
 
 ### Java
 
