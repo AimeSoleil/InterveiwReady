@@ -1,7 +1,5 @@
 # InterveiwReady
 
-Help on interview preparation
-
 https://github.com/AimeSoleil/InterveiwReady/wiki
 
 ### Java
