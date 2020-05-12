@@ -1,8 +1,8 @@
-# InterveiwReady
+# InterveiwReady 😁🔥🤑
 
 > <https://github.com/AimeSoleil/InterveiwReady/wiki>
 
-## Lables for commit comments
+## 👉Lables for commit comments
 1. **_fix:_** + "your comment" means tasks which focus on fix bug/unexpected behavior.
 2. **_doc:_** + " your comment" means tasks to enhance the documents.
 3. **_refactor:_** + " your comment" means tasks to refactor code.
